@@ -1,3 +1,3 @@
 # demo1
 This is my first repository<br>
-Author - Jyothika
+Author - Jyothika (Still Learning)
